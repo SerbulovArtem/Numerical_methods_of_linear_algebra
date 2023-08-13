@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xk0Ctt2lYkIqVComw0uRGRlQHK4EtMfFj68GRCclsJaE9zJPYAaOpMgSUzGCJ2cyD/v/TOkdIi54qdHgQ5Dzeg==",
+  "success": true,
+  "projectFilePath": "E:\\Numerical _methods_of_linear_algebra\\Numerical _methods_of_linear_algebra\\Numerical _methods_of_linear_algebra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Артем\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

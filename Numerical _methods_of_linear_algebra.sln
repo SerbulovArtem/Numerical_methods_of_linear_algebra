@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numerical _methods_of_linear_algebra", "Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra.csproj", "{DF8D49BF-8D7F-45C3-B401-F3065594E47A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF8D49BF-8D7F-45C3-B401-F3065594E47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8D49BF-8D7F-45C3-B401-F3065594E47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8D49BF-8D7F-45C3-B401-F3065594E47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8D49BF-8D7F-45C3-B401-F3065594E47A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

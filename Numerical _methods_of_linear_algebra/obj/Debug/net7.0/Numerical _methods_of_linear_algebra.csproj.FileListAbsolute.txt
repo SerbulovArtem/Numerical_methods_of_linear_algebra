@@ -1,0 +1,17 @@
+E:\Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra\bin\Debug\net7.0\Numerical _methods_of_linear_algebra.exe
+E:\Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra\bin\Debug\net7.0\Numerical _methods_of_linear_algebra.deps.json
+E:\Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra\bin\Debug\net7.0\Numerical _methods_of_linear_algebra.runtimeconfig.json
+E:\Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra\bin\Debug\net7.0\Numerical _methods_of_linear_algebra.dll
+E:\Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra\bin\Debug\net7.0\Numerical _methods_of_linear_algebra.pdb
+E:\Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra\obj\Debug\net7.0\Numerical _methods_of_linear_algebra.csproj.AssemblyReference.cache
+E:\Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra\obj\Debug\net7.0\Numerical _methods_of_linear_algebra.GeneratedMSBuildEditorConfig.editorconfig
+E:\Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra\obj\Debug\net7.0\Numerical _methods_of_linear_algebra.AssemblyInfoInputs.cache
+E:\Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra\obj\Debug\net7.0\Numerical _methods_of_linear_algebra.AssemblyInfo.cs
+E:\Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra\obj\Debug\net7.0\Numerical _methods_of_linear_algebra.csproj.CoreCompileInputs.cache
+E:\Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra\obj\Debug\net7.0\Numerical _methods_of_linear_algebra.dll
+E:\Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra\obj\Debug\net7.0\refint\Numerical _methods_of_linear_algebra.dll
+E:\Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra\obj\Debug\net7.0\Numerical _methods_of_linear_algebra.pdb
+E:\Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra\obj\Debug\net7.0\Numerical _methods_of_linear_algebra.genruntimeconfig.cache
+E:\Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra\obj\Debug\net7.0\ref\Numerical _methods_of_linear_algebra.dll
+E:\Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra\bin\Debug\net7.0\MathNet.Numerics.dll
+E:\Numerical _methods_of_linear_algebra\Numerical _methods_of_linear_algebra\obj\Debug\net7.0\Numerical _methods_of_linear_algebra.csproj.CopyComplete
